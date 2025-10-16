@@ -4,6 +4,9 @@
     <img src="https://i.imgur.com/h1Kllvh.png" height="200">
   </a>
   <h1>DDS2PNG - <a href="https://github.com/czxieddan/">CzXieDdan</a></h1>
+  <a href="https://docs.python.org/3.14/">
+    <img src="https://img.shields.io/badge/DDS2PNG-93CE70?logo=python&logoColor=FFDF58&labelColor=3D7AAB&label=Python%203.14%20Powered" height="20">
+  </a>
 </div>
 
 ### **DDS/PNG** Batch Converter
@@ -29,6 +32,16 @@ Even when converting hundreds or thousands of files at once, it remains fast, an
 ### Lightweight
 
 There is **only one executable file**, and it is only **45.2 MB**.
+
+
+
+
+
+
+
+
+
+
 
 
 
