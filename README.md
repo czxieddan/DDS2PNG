@@ -1,4 +1,10 @@
-# DDS2PNG
+<div align="center">
+<!-- Title: -->
+  <a href="https://github.com/czxieddan/">
+    <img src="https://i.imgur.com/h1Kllvh.png" height="200">
+  </a>
+  <h1>DDS2PNG - <a href="https://github.com/czxieddan/">CzXieDdan</a></h1>
+</div>
 
 ### **DDS/PNG** Batch Converter
 
@@ -23,3 +29,7 @@ Even when converting hundreds or thousands of files at once, it remains fast, an
 ### Lightweight
 
 There is **only one executable file**, and it is only **45.2 MB**.
+
+
+
+
